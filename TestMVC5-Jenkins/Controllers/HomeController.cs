@@ -15,7 +15,7 @@ namespace TestMVC5_Jenkins.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page was edited.";
+            ViewBag.Message = "Your application description page.";
 
             return View();
         }
